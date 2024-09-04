@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "822658339048",
+    "firebase_url": "https://efficiency-production-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "efficiency-production",
+    "storage_bucket": "efficiency-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822658339048:android:3907b34673dc9e4c02795d",
+        "android_client_info": {
+          "package_name": "com.example.efficiencyplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02JKHKQNfcsWrLE26ZqMULMNnmllWK54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
